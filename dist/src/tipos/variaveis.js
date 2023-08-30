@@ -1,0 +1,21 @@
+"use strict";
+const nome = 'Jao';
+console.log(nome, typeof nome);
+let estaChovendo;
+estaChovendo = true;
+console.log(estaChovendo, typeof estaChovendo);
+const idade = 27;
+console.log(idade, typeof idade);
+let variavel = 4;
+console.log(variavel, typeof variavel);
+variavel = "texto";
+console.log(variavel, typeof variavel);
+variavel = false;
+console.log(variavel, typeof variavel);
+variavel = { nome: "João" };
+console.log(variavel, typeof variavel);
+let mistereio;
+mistereio = 4;
+mistereio = "Texto";
+console.log(mistereio, typeof mistereio);
+//# sourceMappingURL=variaveis.js.map
