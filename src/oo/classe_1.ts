@@ -31,4 +31,4 @@ const c3 = new Curso2()
 c3.id = 123
 c3.nome = 'Iniciando com JAVA'
 console.log(c3.id)
-console.log(c3.nome)
+console.log(c3.nome) 
