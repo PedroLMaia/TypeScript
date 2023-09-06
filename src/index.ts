@@ -18,4 +18,5 @@
 // import "./interface/usuario";
 // import "./interface/flexivel";
 // import "./interface/funcao";
-import "./pilares_oo/encapsulamento";
+// import "./pilares_oo/encapsulamento";
+import "./pilares_oo/heranca_1";
